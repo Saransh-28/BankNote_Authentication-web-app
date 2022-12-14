@@ -1,2 +1,2 @@
-pickle5
-sklearn
+pickle5 
+sklearn==0.0
